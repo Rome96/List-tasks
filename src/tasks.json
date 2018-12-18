@@ -1,0 +1,40 @@
+{
+    "tasks":[
+        {
+            "title": "Task 1",
+            "responsible": "Romero",
+            "description": "bla bla bla",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Guzman",
+            "description": "Lorem impsum",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Jesus",
+            "description": "programar",
+            "priority": "high"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Isaac",
+            "description": "leer mas",
+            "priority": "high"
+        },
+        {
+            "title": "Task 5",
+            "responsible": "Pepe",
+            "description": "Running",
+            "priority": "high"
+        },
+        {
+            "title": "Task 6",
+            "responsible": "Pepe",
+            "description": "Running",
+            "priority": "high"
+        }
+    ]
+}
